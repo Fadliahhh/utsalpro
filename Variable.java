@@ -4,9 +4,7 @@ class Variable {
         Integer TahunLahir = 2002;
 
         System.out.println("Assalamu'alaikum"); 
-        System.out.println("Nama Saya :");
-        System.out.println(nama);
-        System.out.println("Saya Lahir Di Tahun :");
-        System.out.println(TahunLahir);
+        System.out.println("Nama Saya :" + nama);
+        System.out.println("Saya Lahir Di Tahun :" + TahunLahir);
     }
 }
